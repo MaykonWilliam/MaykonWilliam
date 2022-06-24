@@ -8,7 +8,8 @@
 <div align="center">
     <div align="center">
         <a href="https://github.com/MaykonWilliam">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaykonWilliam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+            ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykonWilliam&show_icons=true&theme=dark&include_all_commits=true&count_private=true)]
+        </a>
     </div>
     </br>
     <div align="center">
@@ -41,7 +42,5 @@
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/MaykonWilliam/count.svg" />
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykonWilliam)](https://github.com/MaykonWilliam/github-readme-stats)
 
 ![snake gif](https://github.com/MaykonWilliam/MaykonWilliam/blob/output/github-contribution-grid-snake.svg)
